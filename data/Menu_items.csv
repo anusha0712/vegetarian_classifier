@@ -1,0 +1,302 @@
+Title,Description,Manual,Price,test_str
+LASUNI GOBI,Florets Of Cauliflower Marinated In Lemon And Ginger Juice Finished In A Tangy Tomato And Garlic Sauce,Vegetarian,18,LASUNI GOBI : Florets Of Cauliflower Marinated In Lemon And Ginger Juice Finished In A Tangy Tomato And Garlic Sauce
+VEGETABLE SAMOSA,"Crispy Turnovers Stuffed With Seasoned Potatoes, Green Peas",Vegetarian,18,"VEGETABLE SAMOSA : Crispy Turnovers Stuffed With Seasoned Potatoes, Green Peas"
+ALOO TIKKIYA,"Grilled Spicy Potato Cakes Topped With Pomegranate, Mint Chutney",Vegetarian,18,"ALOO TIKKIYA : Grilled Spicy Potato Cakes Topped With Pomegranate, Mint Chutney"
+AMRITSARI SEEKH,"Marinated Paneer, Grilled Peppers, Tomato Sauce",Vegetarian,22,"AMRITSARI SEEKH : Marinated Paneer, Grilled Peppers, Tomato Sauce"
+HARA BHARA KABAB,"Grilled Spinach Patties Stuffed With Paneer, Garam Masala, Red Chili",Vegetarian,18,"HARA BHARA KABAB : Grilled Spinach Patties Stuffed With Paneer, Garam Masala, Red Chili"
+PALAK CHAAT,"Mixture Of Crispy Spinach, Seasoned Tomatoes, Red Onions, Sev, Yogurt, Mint & Tamarind Chutney",Vegetarian,16,"PALAK CHAAT : Mixture Of Crispy Spinach, Seasoned Tomatoes, Red Onions, Sev, Yogurt, Mint & Tamarind Chutney"
+DAHI ALOO PAPDI,"A Mixture Of Wheat Crisps, Potatoes, Chickpeas, Yogurt, Tamarind Chutney",Vegetarian,14,"DAHI ALOO PAPDI : A Mixture Of Wheat Crisps, Potatoes, Chickpeas, Yogurt, Tamarind Chutney"
+BHEL POORI,"Assorted Crisps And Sev, Sweet And Sour Chutneys",Vegetarian,14,"BHEL POORI : Assorted Crisps And Sev, Sweet And Sour Chutneys"
+BAGHARE JHINGA,Jumbo Shrimp Pan Seared With Curry Leaves And Mustard Seeds Finished In A Creamy Tomato Sauce,Not Vegetarian,24,BAGHARE JHINGA : Jumbo Shrimp Pan Seared With Curry Leaves And Mustard Seeds Finished In A Creamy Tomato Sauce
+TAMARIND SCALLOPS,"Pan-Seared Scallops With Garam Masala, Lemon Juice Topped With Poppyseeds",Not Vegetarian,24,"TAMARIND SCALLOPS : Pan-Seared Scallops With Garam Masala, Lemon Juice Topped With Poppyseeds"
+CHILI CRAB,"Mix Of Jumbo Lump Crab Meat, Chili, Garlic",Not Vegetarian,24,"CHILI CRAB : Mix Of Jumbo Lump Crab Meat, Chili, Garlic"
+MASALE WALI MACHLI,"Halibut Marinated In Ginger, Garlic, Chili Powder, Carom Seeds, Lemon Juice Finished On Grill",Not Vegetarian,24,"MASALE WALI MACHLI : Halibut Marinated In Ginger, Garlic, Chili Powder, Carom Seeds, Lemon Juice Finished On Grill"
+BATAKI KOSHA,"Minced Duck Cooked With Onion, Ginger, Garlic, Garam Masala Hand Rolled In A Rice Crepe",Not Vegetarian,20,"BATAKI KOSHA : Minced Duck Cooked With Onion, Ginger, Garlic, Garam Masala Hand Rolled In A Rice Crepe"
+MURGH MALOVA,"Chicken Marinated In Apple Cider Vinegar, Ground Pepper, Curry Leaves Cooked In A Fiery Red Chili Paste",Not Vegetarian,18,"MURGH MALOVA : Chicken Marinated In Apple Cider Vinegar, Ground Pepper, Curry Leaves Cooked In A Fiery Red Chili Paste"
+MURGH MALAI KABAB,"Chicken Marinated In Hung Yogurt, Coriander, Cream Cheese, Carom Seeds Finished In Tandoor",Not Vegetarian,18,"MURGH MALAI KABAB : Chicken Marinated In Hung Yogurt, Coriander, Cream Cheese, Carom Seeds Finished In Tandoor"
+PATHAR KE KABAB,"Stoned Grilled Pounded Lamb Marinated In Mace, Nutmeg, Papaya, Rose Water",Not Vegetarian,22,"PATHAR KE KABAB : Stoned Grilled Pounded Lamb Marinated In Mace, Nutmeg, Papaya, Rose Water"
+NIZAMI KEEMA,"Ground Lamb Cooked Along Cinnamon, Cloves, Nutmeg, Lemon Zest",Not Vegetarian,20,"NIZAMI KEEMA : Ground Lamb Cooked Along Cinnamon, Cloves, Nutmeg, Lemon Zest"
+SHE CRAB SOUP,"Thick Soup Of She Crab Meat, Curry Leaves, Root Vegetables, Coconut Rum",Not Vegetarian,17,"SHE CRAB SOUP : Thick Soup Of She Crab Meat, Curry Leaves, Root Vegetables, Coconut Rum"
+TOMATO RASAM,"Broth Of Tomato, Garlic, Lemon Juice, Curry Leaves And Mustard Seeds.",Vegetarian,12,"TOMATO RASAM : Broth Of Tomato, Garlic, Lemon Juice, Curry Leaves And Mustard Seeds."
+MULLIGATAWNY,"A Spicy Favorite Of Anglo-Indians Made Of Chicken, Red Lentils, Vegetables",Not Vegetarian,14,"MULLIGATAWNY : A Spicy Favorite Of Anglo-Indians Made Of Chicken, Red Lentils, Vegetables"
+KOSHIMBIR,"Romaine Lettuce, Grilled Asparagus, Brussels Sprout, Kirby, Cherry Tomato, Fetta Cheese, Lime Vinaigrette",Vegetarian,13,"KOSHIMBIR : Romaine Lettuce, Grilled Asparagus, Brussels Sprout, Kirby, Cherry Tomato, Fetta Cheese, Lime Vinaigrette"
+ANUM ZAARA,"Grilled Chicken, Mixed Greens, Pink Grapefruit, Beets, Goat Cheese, Walnuts, Maple And Apple Cider Dressing",Not Vegetarian,15,"ANUM ZAARA : Grilled Chicken, Mixed Greens, Pink Grapefruit, Beets, Goat Cheese, Walnuts, Maple And Apple Cider Dressing"
+JALPARI,"Basil Shrimp, Bean And Radish Sprouts, Pea Shoots, Micro Greens, Honey And Ginger Dressing",Not Vegetarian,18,"JALPARI : Basil Shrimp, Bean And Radish Sprouts, Pea Shoots, Micro Greens, Honey And Ginger Dressing"
+SMOKEY JHINGA,"Tiger Prawns Marinated In Ginger, Garlic, Vinegar, Lemon Juice, Olive Oil, Black Pepper",Not Vegetarian,43,"SMOKEY JHINGA : Tiger Prawns Marinated In Ginger, Garlic, Vinegar, Lemon Juice, Olive Oil, Black Pepper"
+JHINGA E AATISH,"Prawns Marinated In Yogurt, Roasted Chilies, Cilantro",Not Vegetarian,38,"JHINGA E AATISH : Prawns Marinated In Yogurt, Roasted Chilies, Cilantro"
+HASIRU SAMUDRA,"Chilean Sea Bass Flavored With Green Chili, Mint, Coriander, Tomato Kokum Sauce",Not Vegetarian,46,"HASIRU SAMUDRA : Chilean Sea Bass Flavored With Green Chili, Mint, Coriander, Tomato Kokum Sauce"
+MALAI HALIBUT,~ GRAND PRIZE WINNER OF THE 2004 USA FISH DISH AWARDS ~,Not Vegetarian,41,MALAI HALIBUT : ~ GRAND PRIZE WINNER OF THE 2004 USA FISH DISH AWARDS ~
+CHICKEN TIKKA NAAN,Light Bread Stuffed With Finely Chopped Tandoori Chicken,Not Vegetarian,10,CHICKEN TIKKA NAAN : Light Bread Stuffed With Finely Chopped Tandoori Chicken
+endive salad*,no description,Vegetarian,21,endive salad* : no description
+"dragonfruit, cara cara orange, pistachios, pecorino",add salt & pepper chicken,Not Vegetarian,7,"dragonfruit, cara cara orange, pistachios, pecorino : add salt & pepper chicken"
+karaoke fries,"h.k. curry, fish balls, pickled onions, cheddar cheese curds",Not Vegetarian,15,"karaoke fries : h.k. curry, fish balls, pickled onions, cheddar cheese curds"
+taro shrimp fritters,cilantro aioli,Not Vegetarian,12,taro shrimp fritters : cilantro aioli
+bolo bao milk toast,w/ milk tea butter,Vegetarian,15,bolo bao milk toast : w/ milk tea butter
+hong kong french toast,"salted egg yolk lava, condensed milk, cultured butter",Vegetarian,15,"hong kong french toast : salted egg yolk lava, condensed milk, cultured butter"
+salt & pepper chicken sandwich w. french fries,"pickled mustard greens aioli, arugula pork belly cha siu & egg sandwich w. french fries ",Not Vegetarian,21,"salt & pepper chicken sandwich w. french fries : pickled mustard greens aioli, arugula pork belly cha siu & egg sandwich w. french fries "
+"hoisin garlic aioli, arugula sunny side eggs over radish cake hash*","shishito peppers, bacon, arugula",Not Vegetarian,16,"hoisin garlic aioli, arugula sunny side eggs over radish cake hash* : shishito peppers, bacon, arugula"
+potluck chow mein*,"hanger steak, garlic chives, pickled onions",Not Vegetarian,24,"potluck chow mein* : hanger steak, garlic chives, pickled onions"
+endive salad*,"dragonfruit, cara cara orange, pistachios, pecorino",Vegetarian,21,"endive salad* : dragonfruit, cara cara orange, pistachios, pecorino"
+pork belly cha siu & egg sandwich w. french fries,"hoisin garlic aioli, arugula",Not Vegetarian,21,"pork belly cha siu & egg sandwich w. french fries : hoisin garlic aioli, arugula"
+sunny side eggs over radish cake hash*,"shishito peppers, bacon, arugula",Not Vegetarian,16,"sunny side eggs over radish cake hash* : shishito peppers, bacon, arugula"
+Chana-Chenna Tikki (v),"green garbanzo, housemade cheese, tomato chutney (2 pc)",Vegetarian,17,"Chana-Chenna Tikki (v) : green garbanzo, housemade cheese, tomato chutney (2 pc)"
+"Paneer Tikka (v, gf)","house made paneer, ajwain, yogurt (2 pc)",Vegetarian,21,"Paneer Tikka (v, gf) : house made paneer, ajwain, yogurt (2 pc)"
+Bohri Chicken Cutlet,"chicken mince, green chili, Amul cheese (2 pc)",Not Vegetarian,18,"Bohri Chicken Cutlet : chicken mince, green chili, Amul cheese (2 pc)"
+Jama Masjid Seekh,"smoked lamb belly, ginger, cilantro (1 pc)",Not Vegetarian,,"Jama Masjid Seekh : smoked lamb belly, ginger, cilantro (1 pc)"
+"Lasooni Palak (v, gf)","spinach, garlic, cumin seeds",Vegetarian,17,"Lasooni Palak (v, gf) : spinach, garlic, cumin seeds"
+"Baingan Bharta (v, gf)","grilled eggplant, onion, green chili",Vegetarian,17,"Baingan Bharta (v, gf) : grilled eggplant, onion, green chili"
+Kashmiri Gosht Chaamp (gf),"lamb loin, garam masala, ghee",Not Vegetarian,22,"Kashmiri Gosht Chaamp (gf) : lamb loin, garam masala, ghee"
+Beef Pepper Fry (gf),"Wagyu flank, curry leaves, Tellicherry pepper",Not Vegetarian,,"Beef Pepper Fry (gf) : Wagyu flank, curry leaves, Tellicherry pepper"
+Macchi Hara Masala (gf),"rainbow trout, cilantro, mint",Not Vegetarian,,"Macchi Hara Masala (gf) : rainbow trout, cilantro, mint"
+Butter Pepper Garlic Crab (gf),"crab, Amul butter, garlic, crushed black pepper",Not Vegetarian,,"Butter Pepper Garlic Crab (gf) : crab, Amul butter, garlic, crushed black pepper"
+"Paneer Methi (v, gf, n)","house made paneer, fenugreek, tomato",Vegetarian,,"Paneer Methi (v, gf, n) : house made paneer, fenugreek, tomato"
+"Dahi Waali Bhindi (v, gf)","okra, yogurt, Rajasthani red chili",Vegetarian,,"Dahi Waali Bhindi (v, gf) : okra, yogurt, Rajasthani red chili"
+Malai Murgh,"chicken, cream, Amul butter",Not Vegetarian,,"Malai Murgh : chicken, cream, Amul butter"
+Rara Gosht (gf),"goat meat & mince, yogurt, onions, garam masala",Not Vegetarian,,"Rara Gosht (gf) : goat meat & mince, yogurt, onions, garam masala"
+Kolambi ani Kekda Bhaath (gf),"tiger prawn, crab, aged basmati rice",Not Vegetarian,,"Kolambi ani Kekda Bhaath (gf) : tiger prawn, crab, aged basmati rice"
+Nalli Biryani,"slow braised lamb shank, aged basmati rice",Not Vegetarian,,"Nalli Biryani : slow braised lamb shank, aged basmati rice"
+Gurda Kapoora,"goat kidney & testicles, tomato, pao",Not Vegetarian,23,"Gurda Kapoora : goat kidney & testicles, tomato, pao"
+Champaran Meat,"mutton, whole garlic, red chili",Not Vegetarian,49,"Champaran Meat : mutton, whole garlic, red chili"
+Lamb Musallam Feast (gf),"lamb shoulder, saffron, cashews, aged basmati rice",Not Vegetarian,225,"Lamb Musallam Feast (gf) : lamb shoulder, saffron, cashews, aged basmati rice"
+"Dhaba Dal (v, gf)",no description,Vegetarian,13,"Dhaba Dal (v, gf) : no description"
+green chickpea hummus,"mint, whole wheat pita & crudité",Vegetarian,23,"green chickpea hummus : mint, whole wheat pita & crudité"
+california dates,"whipped coconut yogurt and tahini, crunchy sea salt, lemon, pistachio, mint, sicilian olive oil",Vegetarian,17,"california dates : whipped coconut yogurt and tahini, crunchy sea salt, lemon, pistachio, mint, sicilian olive oil"
+dosa,"fermented turmeric sambal, coriander mint chutney, mango chutney",Vegetarian,25,"dosa : fermented turmeric sambal, coriander mint chutney, mango chutney"
+cornmeal crusted oyster mushrooms,"cashew lime leaf dip, passion fruit, grenada pepper sauce",Vegetarian,24,"cornmeal crusted oyster mushrooms : cashew lime leaf dip, passion fruit, grenada pepper sauce"
+honeynut squash dip,"tahini, warming spices, sourdough focaccia",Vegetarian,22,"honeynut squash dip : tahini, warming spices, sourdough focaccia"
+roasted murasaki yam,"black sesame, white sesame, ginger, scallion, lime",Vegetarian,24,"roasted murasaki yam : black sesame, white sesame, ginger, scallion, lime"
+wood roasted freekeh,"sunchoke, saffron labneh, green olive, orange",Vegetarian,26,"wood roasted freekeh : sunchoke, saffron labneh, green olive, orange"
+char grilled rainbow carrots,"seed & nut butter, fermented sambal, finger lime, thai basil",Vegetarian,27,"char grilled rainbow carrots : seed & nut butter, fermented sambal, finger lime, thai basil"
+whole roasted cauliflower,"turmeric tahini, za’atar, pomegranate, date molasses, red zhug, fresh herbs, pistachio",Vegetarian,34,"whole roasted cauliflower : turmeric tahini, za’atar, pomegranate, date molasses, red zhug, fresh herbs, pistachio"
+market beets,"avocado purée, flavors of tartare",Vegetarian,24,"market beets : avocado purée, flavors of tartare"
+avocado lettuce cups,"toasted cumin, serrano and lime, pepitas",Vegetarian,22,"avocado lettuce cups : toasted cumin, serrano and lime, pepitas"
+crisp cabbage,"asian pear, roasted kabocha squash, hazelnut furikake, miso dressing",Vegetarian,21,"crisp cabbage : asian pear, roasted kabocha squash, hazelnut furikake, miso dressing"
+dosa,"yogurt, avocado, sprouts",Vegetarian,24,"dosa : yogurt, avocado, sprouts"
+crunchy market greens & radish,"cashew peppercorn ranch, rye crouton, horseradish",Vegetarian,23,"crunchy market greens & radish : cashew peppercorn ranch, rye crouton, horseradish"
+matsutake mushrooms in fragrant yuzu broth,"yuba budding chive purses, simmered fall greens and roots",Vegetarian,33,"matsutake mushrooms in fragrant yuzu broth : yuba budding chive purses, simmered fall greens and roots"
+bergamot scented spaghetti,"rainbow chard, pine nut crumb, smoked chili, mint, gran kinara cheese",Vegetarian,27,"bergamot scented spaghetti : rainbow chard, pine nut crumb, smoked chili, mint, gran kinara cheese"
+mushroom walnut bolognese,"carrot paccheri, celery, mint",Vegetarian,32,"mushroom walnut bolognese : carrot paccheri, celery, mint"
+seared tofu,"black maitake mushroom, broccolini, yuzu, ginger, scallion",Vegetarian,35,"seared tofu : black maitake mushroom, broccolini, yuzu, ginger, scallion"
+"coconut sticky rice, pandan, key lime, sea salt",no description,Vegetarian,17,"coconut sticky rice, pandan, key lime, sea salt : no description"
+GREEK VILLAGE OMELET,"fresh spinach, scallions and feta cheese cooked in a fluffy omelet",Vegetarian,15,"GREEK VILLAGE OMELET : fresh spinach, scallions and feta cheese cooked in a fluffy omelet"
+GREEK ISLAND FRITTATA,hearty baked omelet with potatoes and country sausages flavored with orange zest,Vegetarian,,GREEK ISLAND FRITTATA : hearty baked omelet with potatoes and country sausages flavored with orange zest
+GREEK GRILLED CHEESE SANDWICH,"pita bread filled with kasseri, tomatoes and pastourma, pan-fried and served with a simple green salad",Not Vegetarian,16,"GREEK GRILLED CHEESE SANDWICH : pita bread filled with kasseri, tomatoes and pastourma, pan-fried and served with a simple green salad"
+VEGETARIAN PITA SANDWICH,"pita bread filled with grilled eggplant, zucchini, roasted red peppers and feta",Vegetarian,,"VEGETARIAN PITA SANDWICH : pita bread filled with grilled eggplant, zucchini, roasted red peppers and feta"
+AVGOLEMONO ME SAMPANIA,"champagne avgolemono, PYLOS’ smooth as silk classic egg-lemon soup with chicken stock and orzo",Not Vegetarian,,"AVGOLEMONO ME SAMPANIA : champagne avgolemono, PYLOS’ smooth as silk classic egg-lemon soup with chicken stock and orzo"
+ELINIKI SALATA,"greek salad with lettuce, fresh tomatoes, cucumbers, onions, stuffed grape leaves, feta and kalamata olives",Vegetarian,,"ELINIKI SALATA : greek salad with lettuce, fresh tomatoes, cucumbers, onions, stuffed grape leaves, feta and kalamata olives"
+HORIATIKI,"the classic greek village salad, with fresh tomatoes, onions, cucumbers, capers, kalamata olives, feta and a simple dressing of extra-virgin greek olive oil and red wine vinegar",Vegetarian,,"HORIATIKI : the classic greek village salad, with fresh tomatoes, onions, cucumbers, capers, kalamata olives, feta and a simple dressing of extra-virgin greek olive oil and red wine vinegar"
+SPANAKOPITA,"crispy savory greek phyllo pastry filled with fresh spinach, feta and aromatic herbs",Vegetarian,13,"SPANAKOPITA : crispy savory greek phyllo pastry filled with fresh spinach, feta and aromatic herbs"
+KOLOKYTHAKIA KAI MELITZANAKIA TYGANITA,"crisp, fried zucchini and eggplant rounds served with tzatziki",Vegetarian,12,"KOLOKYTHAKIA KAI MELITZANAKIA TYGANITA : crisp, fried zucchini and eggplant rounds served with tzatziki"
+KALAMARAKIA TYGANITA,crisp fresh fried squid,Not Vegetarian,14,KALAMARAKIA TYGANITA : crisp fresh fried squid
+AFRATA KEFTEDAKIA,"PYLOS’ light-as-air meatballs, pan-fried in olive oil",Vegetarian,13,"AFRATA KEFTEDAKIA : PYLOS’ light-as-air meatballs, pan-fried in olive oil"
+GARIDES OUZO,large shrimp cooked in a light ouzo and tomato cream sauce,Not Vegetarian,18,GARIDES OUZO : large shrimp cooked in a light ouzo and tomato cream sauce
+SAGANAKI TOU MERAKLI,three greek cheeses melted in a clay pot,Vegetarian,13,SAGANAKI TOU MERAKLI : three greek cheeses melted in a clay pot
+HTAPOTHI SCHARAS,"classic grilled, marinated octopus with a balsamic reduction sauce and capers",Not Vegetarian,,"HTAPOTHI SCHARAS : classic grilled, marinated octopus with a balsamic reduction sauce and capers"
+GREEK YIAYIA’S FRIED POTATOES,wedges of handcut fried potatoes served with grated greek sheep’s milk cheese and oregano,Vegetarian,8,GREEK YIAYIA’S FRIED POTATOES : wedges of handcut fried potatoes served with grated greek sheep’s milk cheese and oregano
+SPANAKORIZO,classic spinach-rice lemon pilaf served with crumbled feta,Vegetarian,,SPANAKORIZO : classic spinach-rice lemon pilaf served with crumbled feta
+PASTITSIO,PYLOS’ terrine of baked pasta layered with aromatic meat sauce and béchamel,Not Vegetarian,20,PASTITSIO : PYLOS’ terrine of baked pasta layered with aromatic meat sauce and béchamel
+MOUSSAKA,"layers of lightly sautéed eggplant, zucchini and potato baked in a clay dish with aromatic ground meat sauce and béchamel",Not Vegetarian,,"MOUSSAKA : layers of lightly sautéed eggplant, zucchini and potato baked in a clay dish with aromatic ground meat sauce and béchamel"
+DIPS,"comes with pita; LABNEH za’atar; MUHAMMARA roasted red pepper, walnut; MATBUCHA tomato confit, smoked paprika",Vegetarian,11 (each) / 29 (all three),"DIPS : comes with pita; LABNEH za’atar; MUHAMMARA roasted red pepper, walnut; MATBUCHA tomato confit, smoked paprika"
+FENNEL & PEAR,"celery, pecorino, breadcrumbs",Vegetarian,22,"FENNEL & PEAR : celery, pecorino, breadcrumbs"
+ENDIVE,"radicchio, apples, pecan, gorgonzola",Vegetarian,24,"ENDIVE : radicchio, apples, pecan, gorgonzola"
+SCALLOP CRUDO,"brown butter, gooseberries, meyer lemon",Vegetarian,26,"SCALLOP CRUDO : brown butter, gooseberries, meyer lemon"
+MUSHROOM BUREKA,black truffle butter (add bureka +6),Not Vegetarian,24,MUSHROOM BUREKA : black truffle butter (add bureka +6)
+PARSNIP RISOTTO,"parmesan, fried sage",Vegetarian,28,"PARSNIP RISOTTO : parmesan, fried sage"
+LAMB KEBAB,"malawach, sumac onion, zhoug, tahini (add skewer +15)",Not Vegetarian,33,"LAMB KEBAB : malawach, sumac onion, zhoug, tahini (add skewer +15)"
+HARISSA CHICKEN,"tzatziki, castelvetrano olives, pine nuts",Not Vegetarian,36,"HARISSA CHICKEN : tzatziki, castelvetrano olives, pine nuts"
+DUCK CONFIT HARRIRA,"spaghetti squash, chickpeas, cilantro",Not Vegetarian,32,"DUCK CONFIT HARRIRA : spaghetti squash, chickpeas, cilantro"
+WHOLE BRANZINO,"braised leeks, seaweed butter",Not Vegetarian,46,"WHOLE BRANZINO : braised leeks, seaweed butter"
+misticanza,"castelfranco, rossa del veneto, escarole, capers, focaccia croutons, pecorino",Vegetarian,22,"misticanza : castelfranco, rossa del veneto, escarole, capers, focaccia croutons, pecorino"
+roasted honeynut squash,"taleggio, hazelnuts, brown butter, cantucci, spigarello",Vegetarian,23,"roasted honeynut squash : taleggio, hazelnuts, brown butter, cantucci, spigarello"
+suppli,"white truffle, bufala mozzarella, porcini",Vegetarian,26,"suppli : white truffle, bufala mozzarella, porcini"
+midollo,"roasted bone marrow, beef tartare, celery root",Not Vegetarian,25,"midollo : roasted bone marrow, beef tartare, celery root"
+cappelletti,"roasted chestnut, parmigiano, radicchio, brown butter",Vegetarian,35,"cappelletti : roasted chestnut, parmigiano, radicchio, brown butter"
+busiate,"roasted garlic, parsley, pepperoncino, lemon",Vegetarian,28,"busiate : roasted garlic, parsley, pepperoncino, lemon"
+agnolotti,"short rib, duck jus, chive",Not Vegetarian,38,"agnolotti : short rib, duck jus, chive"
+lasagna,"rabbit & veal ragu, chervil, almonds, bufala mozzarella",Not Vegetarian,28,"lasagna : rabbit & veal ragu, chervil, almonds, bufala mozzarella"
+Roman Classics,"cacio e pepe, alla gricia, alla carbonara, all'amatriciana",Not Vegetarian,,"Roman Classics : cacio e pepe, alla gricia, alla carbonara, all'amatriciana"
+lamb porterhouse,"creamy polenta, tardivo salad, mirto",Not Vegetarian,46,"lamb porterhouse : creamy polenta, tardivo salad, mirto"
+rainbow trout,"summer potatoes, lemon curd, Calabrian chili",Not Vegetarian,48,"rainbow trout : summer potatoes, lemon curd, Calabrian chili"
+maritozzo,"sweet yeasted brioche, Chantilly creme, citrus",Vegetarian,12,"maritozzo : sweet yeasted brioche, Chantilly creme, citrus"
+gelati & sorbetti,one scoop (flavors change daily),Vegetarian,6,gelati & sorbetti : one scoop (flavors change daily)
+Broccolini,garlic & almonds,Vegetarian,14,Broccolini : garlic & almonds
+Roast kohlrabi,sugar snap peas & yogurt,Vegetarian,16,Roast kohlrabi : sugar snap peas & yogurt
+Crispy yams,persian lime aioli,Vegetarian,16,Crispy yams : persian lime aioli
+Beets,"pistachio, feta cheese",Vegetarian,17,"Beets : pistachio, feta cheese"
+Market Salad,"fennel, radish & chickpea",Vegetarian,17,"Market Salad : fennel, radish & chickpea"
+Heirloom cauliflower,herb tahini & pomegranate,Vegetarian,29,Heirloom cauliflower : herb tahini & pomegranate
+Crispy quail,"tahini yogurt, pickled egg",Not Vegetarian,37,"Crispy quail : tahini yogurt, pickled egg"
+Seared tuna,"sheep yogurt, tomato & chili",Not Vegetarian,37,"Seared tuna : sheep yogurt, tomato & chili"
+Dorade,grilled & butterflied,Not Vegetarian,42,Dorade : grilled & butterflied
+Half chicken,breadcrumbs,Not Vegetarian,34,Half chicken : breadcrumbs
+Smoked lamb shawarma,labne & herbs,Not Vegetarian,38,Smoked lamb shawarma : labne & herbs
+TORO SSAM BAP,"Fatty Tuna, Scrambled Egg, Tobiko, Shallots, Jalapeño, Toasted Seaweed, Golden Osetra Caviar",Not Vegetarian,55,"TORO SSAM BAP : Fatty Tuna, Scrambled Egg, Tobiko, Shallots, Jalapeño, Toasted Seaweed, Golden Osetra Caviar"
+TRUFFLE SCALLOP,"Scallop Hwe, Truffle Soy, Pickled Radish, Truffle Aioli, Shimeji Mushrooms, Burgundy Truffle",Not Vegetarian,39,"TRUFFLE SCALLOP : Scallop Hwe, Truffle Soy, Pickled Radish, Truffle Aioli, Shimeji Mushrooms, Burgundy Truffle"
+CEVICHE,"Assorted Fish, White Radish Dressing, Avocado, Lime, Red Onion, Jalapeño",Not Vegetarian,23,"CEVICHE : Assorted Fish, White Radish Dressing, Avocado, Lime, Red Onion, Jalapeño"
+AMBERJACK & ONION,"Amberjack Hwe, Cucumber, Radish, Serrano, Pearl Onion, Soy Bean Dressing",Not Vegetarian,27,"AMBERJACK & ONION : Amberjack Hwe, Cucumber, Radish, Serrano, Pearl Onion, Soy Bean Dressing"
+FLUKE HWE,"Wild Fluke, Red Onion, Cucumber, Myoga, Olive Oil “Dongchimi” Emulsion, Plum Cho Gochujang",Not Vegetarian,25,"FLUKE HWE : Wild Fluke, Red Onion, Cucumber, Myoga, Olive Oil “Dongchimi” Emulsion, Plum Cho Gochujang"
+CLAM & SEABREAM,"Manilla Clams, Sea Bream, Serrano Pepper, Olive Oil, Dill",Not Vegetarian,26,"CLAM & SEABREAM : Manilla Clams, Sea Bream, Serrano Pepper, Olive Oil, Dill"
+JEJU FRIED CHIKIN,"2pc Chicken, Onion Powder, Yogurt Dip, Caviar",Not Vegetarian,31,"JEJU FRIED CHIKIN : 2pc Chicken, Onion Powder, Yogurt Dip, Caviar"
+JA JANG STYLE RIBS,"Half Rack St. Louis Style Pork Ribs, Maple - Black Bean Glaze, Banchan",Not Vegetarian,33,"JA JANG STYLE RIBS : Half Rack St. Louis Style Pork Ribs, Maple - Black Bean Glaze, Banchan"
+GOCHUJANG BOKUM,"Beef Ragu, Iceberg Lettuce, Pickled Mustard, Palae Seaweed, Potato Crisps",Not Vegetarian,13,"GOCHUJANG BOKUM : Beef Ragu, Iceberg Lettuce, Pickled Mustard, Palae Seaweed, Potato Crisps"
+WAGYU RAMYUN,"A Rich Veal Bone Broth, Raw Miyazaki A5 Wagyu Brisket, Kikurage, Enoki, Scallion Oil, Sesame, Chili Beef Ragu",Not Vegetarian,45,"WAGYU RAMYUN : A Rich Veal Bone Broth, Raw Miyazaki A5 Wagyu Brisket, Kikurage, Enoki, Scallion Oil, Sesame, Chili Beef Ragu"
+GOCHU RAMYUN,"A Rich Spicy Pork Bone Broth, Pork Belly, White Kimchi, Sauce “Ko”mericaine, Charred Scallion Oil",Not Vegetarian,23,"GOCHU RAMYUN : A Rich Spicy Pork Bone Broth, Pork Belly, White Kimchi, Sauce “Ko”mericaine, Charred Scallion Oil"
+FAMILY RAMYUN,"A Rich Pork Bone Broth, Scallion, Porchetta, Shrimp, Pickled Jalapeño, Wood Ear Mushroom, Calabrian Chili",Not Vegetarian,23,"FAMILY RAMYUN : A Rich Pork Bone Broth, Scallion, Porchetta, Shrimp, Pickled Jalapeño, Wood Ear Mushroom, Calabrian Chili"
+MUSHROOM RAMYUN,"Seasonal Mushrooms, Parmesan Foam, Lime, Chervil, Garlic Chips, Pickled Garlic",Vegetarian,27,"MUSHROOM RAMYUN : Seasonal Mushrooms, Parmesan Foam, Lime, Chervil, Garlic Chips, Pickled Garlic"
+LOBSTER MYUN,"Lobster, “Sauce Américaine”, Calabrian Chili, Soy Milk, Lobster Emulsion",Not Vegetarian,36,"LOBSTER MYUN : Lobster, “Sauce Américaine”, Calabrian Chili, Soy Milk, Lobster Emulsion"
+LAMB JA JANG MYUN,"Elysian Field Lamb Ragu, Black Bean Sauce, Szechuan, Pickled Onion, Herbs, Cucumber",Not Vegetarian,27,"LAMB JA JANG MYUN : Elysian Field Lamb Ragu, Black Bean Sauce, Szechuan, Pickled Onion, Herbs, Cucumber"
+DONKATSU,"Berkshire Pork, Tomato Mustard Reduction, Seared Maitake, Cole Slaw",Not Vegetarian,38,"DONKATSU : Berkshire Pork, Tomato Mustard Reduction, Seared Maitake, Cole Slaw"
+GRILLED OCEAN TROUT,"Spicy Cod Roe “Gribiche”, Trout Roe, Jalapeño",Not Vegetarian,34,"GRILLED OCEAN TROUT : Spicy Cod Roe “Gribiche”, Trout Roe, Jalapeño"
+AMERICAN WAGYU RIBEYE,"Chimichurri, Romesco, Ssam, Pickles",Not Vegetarian,6/oz,"AMERICAN WAGYU RIBEYE : Chimichurri, Romesco, Ssam, Pickles"
+ELYSIAN FARM RACK OF LAMB,"Pan Fried Fingerling Potatoes, Truffle Vinaigrette Salad, Pickled Jalapeño, Sesame Dipping Sauce",Not Vegetarian,150,"ELYSIAN FARM RACK OF LAMB : Pan Fried Fingerling Potatoes, Truffle Vinaigrette Salad, Pickled Jalapeño, Sesame Dipping Sauce"
+MARINARA,"San Marzano Tomatoes, Amalfi Wild Oregano, Garlic, Basil, Sicilian Sea Salt, EVOO",Vegetarian,,"MARINARA : San Marzano Tomatoes, Amalfi Wild Oregano, Garlic, Basil, Sicilian Sea Salt, EVOO"
+MARGHERITA,"San Marzano Tomatoes, Buffalo Mozzarella DOP, Basil, Sicilian Sea Salt, EVOO",Vegetarian,,"MARGHERITA : San Marzano Tomatoes, Buffalo Mozzarella DOP, Basil, Sicilian Sea Salt, EVOO"
+BIANCA,"Buffalo Mozzarella DOP, Garlic, Basil, Sicilian Sea Salt, EVOO",Vegetarian,,"BIANCA : Buffalo Mozzarella DOP, Garlic, Basil, Sicilian Sea Salt, EVOO"
+FILETTI,"Cherry Tomatoes, Buffalo Mozzarella DOP, Garlic, Basil, Sicilian Sea Salt, EVOO",Vegetarian,,"FILETTI : Cherry Tomatoes, Buffalo Mozzarella DOP, Garlic, Basil, Sicilian Sea Salt, EVOO"
+COSACCA,"San Marzano Tomatoes, Pecorino Romano, Basil, Sicilian Sea Salt, EVOO",Vegetarian,,"COSACCA : San Marzano Tomatoes, Pecorino Romano, Basil, Sicilian Sea Salt, EVOO"
+SPECIAL PIZZA,Rotates Weekly,Vegetarian,,SPECIAL PIZZA : Rotates Weekly
+Vermicelli Delight,Korean Sweet Potato Noodles With Assorted Vegetables Marinated With Soy Sauce,Vegetarian,16,Vermicelli Delight : Korean Sweet Potato Noodles With Assorted Vegetables Marinated With Soy Sauce
+Spicy Korean Cauliflower Bites,With Vegan Mayonnaise Dip,Vegetarian,16,Spicy Korean Cauliflower Bites : With Vegan Mayonnaise Dip
+Spicy Sesame Leaf Tofu Patties,Minced Oyster Mushrooms And Tofu Wrapped In Sesame Leaves,Vegetarian,18,Spicy Sesame Leaf Tofu Patties : Minced Oyster Mushrooms And Tofu Wrapped In Sesame Leaves
+Stuffed Shiitake Mushrooms,no description,Vegetarian,18,Stuffed Shiitake Mushrooms : no description
+Korean Pancakes Platter,"Leek, Kimchi Mushroom & Mung Bean Pancakes With Bean Sprouts And Kabocha Pumpkin",Vegetarian,20,"Korean Pancakes Platter : Leek, Kimchi Mushroom & Mung Bean Pancakes With Bean Sprouts And Kabocha Pumpkin"
+Organic Wheat Free Kale Pancakes,Made With Sweet Rice Flour,Vegetarian,19,Organic Wheat Free Kale Pancakes : Made With Sweet Rice Flour
+Plant Based Korean ‘Bulgogi’ Bossam Bites,Plant Based ‘Bulgogi’with Pickled Radish And Mushrooms In Spicy Korean Blackraspberry Sauce,Vegetarian,18,Plant Based Korean ‘Bulgogi’ Bossam Bites : Plant Based ‘Bulgogi’with Pickled Radish And Mushrooms In Spicy Korean Blackraspberry Sauce
+Korean Kochi Skewers,"Skewers Featuring Mushroom Head, Asparagus, Scallion And Sweet Chilli",Vegetarian,18,"Korean Kochi Skewers : Skewers Featuring Mushroom Head, Asparagus, Scallion And Sweet Chilli"
+Fritters Galore,"Crispy Batter Fried Todok, Sweet Potato, Kabocha Pumpkin, Taro, Broccoli, Beet & Onion",Vegetarian,21,"Fritters Galore : Crispy Batter Fried Todok, Sweet Potato, Kabocha Pumpkin, Taro, Broccoli, Beet & Onion"
+Maitake Mushroom Fritters,Organic Maitake Mushrooms Deep Fried In Crispy Batter,Vegetarian,23,Maitake Mushroom Fritters : Organic Maitake Mushrooms Deep Fried In Crispy Batter
+Combination Rolls,"Buckwheat Noodle Rolls, Seaweed Rolls, Mushroom Rolls And Kimchi Vermicelli Rolls",Vegetarian,21,"Combination Rolls : Buckwheat Noodle Rolls, Seaweed Rolls, Mushroom Rolls And Kimchi Vermicelli Rolls"
+HanGawi Stone Bowl Rice,Assortment Of Vegetables With Hot Chili Paste On The Side,Vegetarian,26,HanGawi Stone Bowl Rice : Assortment Of Vegetables With Hot Chili Paste On The Side
+Spicy Kimchi Stone Bowl Rice,Spicy Preserved Korean Cabbage With Vegetables And Mushrooms,Vegetarian,26,Spicy Kimchi Stone Bowl Rice : Spicy Preserved Korean Cabbage With Vegetables And Mushrooms
+Avocado Stone Bowl Rice,"Avocado With Vegetables, Mushrooms And Mountain Greens With Miso Sauce On The Side",Vegetarian,26,"Avocado Stone Bowl Rice : Avocado With Vegetables, Mushrooms And Mountain Greens With Miso Sauce On The Side"
+Zen Stone Bowl Rice,"Wild Mountain Greens With Vegetables, And Mushrooms, Served With Organic Brown Rice",Vegetarian,29,"Zen Stone Bowl Rice : Wild Mountain Greens With Vegetables, And Mushrooms, Served With Organic Brown Rice"
+Plant Based Korean ‘Bulgogi’ Stone Bowl Rice,"Plant Based ‘Bulgogi’ With Sesame Leaves, Vegetables And Mushrooms",Vegetarian,29,"Plant Based Korean ‘Bulgogi’ Stone Bowl Rice : Plant Based ‘Bulgogi’ With Sesame Leaves, Vegetables And Mushrooms"
+Tofu Stone Bowl Rice With Sesame Leaves,"Tofu Crumbles, Sesame Leaves, Mushrooms And Vegetables With Hot Chili Paste On The Side",Vegetarian,29,"Tofu Stone Bowl Rice With Sesame Leaves : Tofu Crumbles, Sesame Leaves, Mushrooms And Vegetables With Hot Chili Paste On The Side"
+Mushroom Stone Bowl Rice With Black Truffle Paste,"Variety Of Mushrooms, Gingko Nuts, Chestnut, Black Truffle Paste In Spicy Truffle Sauce",Vegetarian,35,"Mushroom Stone Bowl Rice With Black Truffle Paste : Variety Of Mushrooms, Gingko Nuts, Chestnut, Black Truffle Paste In Spicy Truffle Sauce"
+Vegetable Dumplings,"Stuffed With Vegetables, Mushrooms, Tofu And Vermicelli. Served Steamed Or Fried",Vegetarian,15,"Vegetable Dumplings : Stuffed With Vegetables, Mushrooms, Tofu And Vermicelli. Served Steamed Or Fried"
+Spicy Baby Dumplings,"Stuffed With Vegetables, Mushrooms, Tofu And Vermicelli. With Special Spicy Sauce",Vegetarian,15,"Spicy Baby Dumplings : Stuffed With Vegetables, Mushrooms, Tofu And Vermicelli. With Special Spicy Sauce"
+Kale Dumplings In Tofu Skin Wrap,"Kale, Tofu, Edamame Beans And Vegetables Wrapped In Tofu Skin",Vegetarian,17,"Kale Dumplings In Tofu Skin Wrap : Kale, Tofu, Edamame Beans And Vegetables Wrapped In Tofu Skin"
+Black Truffle Dumplings,"Stuffed With Variety Of Mushrooms, Tofu And Black Truffle Paste With Truffle Oil Sauce",Vegetarian,20,"Black Truffle Dumplings : Stuffed With Variety Of Mushrooms, Tofu And Black Truffle Paste With Truffle Oil Sauce"
+Spicy Kale And Broccoli Kimchi Salad,With Red Beets And Tofu,Vegetarian,16,Spicy Kale And Broccoli Kimchi Salad : With Red Beets And Tofu
+Acorn Noodles Salad,"Acorn Noodles, Mix Greens And Avocado Fritter",Vegetarian,17,"Acorn Noodles Salad : Acorn Noodles, Mix Greens And Avocado Fritter"
+Organic Dandelion And Avocado Salad,With Taro Fritters And Ginger Mustard Dressing,Vegetarian,17,Organic Dandelion And Avocado Salad : With Taro Fritters And Ginger Mustard Dressing
+Todok Salad,"Fresh Todok (Korean Root Vegetable) With Watercress, Cabbage And Carrots In Bean Paste Lemon Dressing",Vegetarian,20,"Todok Salad : Fresh Todok (Korean Root Vegetable) With Watercress, Cabbage And Carrots In Bean Paste Lemon Dressing"
+HOUSE SALAMI & CHEESE,"Savory Pizzelles, Crescenza Cheese, Sicilian Honey",Not Vegetarian,15,"HOUSE SALAMI & CHEESE : Savory Pizzelles, Crescenza Cheese, Sicilian Honey"
+SCALLOP CRUDO,"Pink Apples, Italian Basil, Smoked Pine Nut Brodo",Not Vegetarian,21,"SCALLOP CRUDO : Pink Apples, Italian Basil, Smoked Pine Nut Brodo"
+TONNATO VITELLO,"Spicy Veal Tartare, Tuna Carpaccio",Not Vegetarian,20,"TONNATO VITELLO : Spicy Veal Tartare, Tuna Carpaccio"
+CHRYSANTHEMUM SALAD,"Garlic, Sesame, Parmesan",Vegetarian,21,"CHRYSANTHEMUM SALAD : Garlic, Sesame, Parmesan"
+SPICY CANTALOUPE & COPPA,"Spiced Almonds, Sheep's Cheese, Thai Basil",Not Vegetarian,19,"SPICY CANTALOUPE & COPPA : Spiced Almonds, Sheep's Cheese, Thai Basil"
+BBQ CALAMARI,"Pepperoni Fried Rice, Herbed Labneh",Not Vegetarian,19,"BBQ CALAMARI : Pepperoni Fried Rice, Herbed Labneh"
+BUFFALO MILK CARAMELLE,"Black Sesame, Candied Kumquat",Vegetarian,28,"BUFFALO MILK CARAMELLE : Black Sesame, Candied Kumquat"
+STRACCHINO GNOCCHI,"Broccoli Rabe, Crispy Garlic, Sharp Provolone",Vegetarian,28,"STRACCHINO GNOCCHI : Broccoli Rabe, Crispy Garlic, Sharp Provolone"
+SORPRESINE & SMOKED MUSSELS,"Peroni, Pimenton, Cilantro Macho",Not Vegetarian,27,"SORPRESINE & SMOKED MUSSELS : Peroni, Pimenton, Cilantro Macho"
+SOURDOUGH PASTA CACCIATORE,"Mezcal-Braised Chicken, Nduja, Sicilian Olives",Not Vegetarian,29,"SOURDOUGH PASTA CACCIATORE : Mezcal-Braised Chicken, Nduja, Sicilian Olives"
+GARGANELLI GIGANTI,"Broken Meatball Ragu, Guanciale, Pecorino",Not Vegetarian,29,"GARGANELLI GIGANTI : Broken Meatball Ragu, Guanciale, Pecorino"
+SPICED ORATA ALLA GRIGLIA,"Sicilian Saffron, Toasted Almond, Fennel Buttermilk",Not Vegetarian,34,"SPICED ORATA ALLA GRIGLIA : Sicilian Saffron, Toasted Almond, Fennel Buttermilk"
+CHICKEN SCARPARIELLO,"Blackened Sausage, Capocollo, Anaheim Chilies",Not Vegetarian,31,"CHICKEN SCARPARIELLO : Blackened Sausage, Capocollo, Anaheim Chilies"
+VEAL 'DA PEPI',"Horseradish, Speck, Caraway",Not Vegetarian,39,"VEAL 'DA PEPI' : Horseradish, Speck, Caraway"
+SHELL STEAK AL LIMONE,"Charred, Cured & Confit Lemons",Not Vegetarian,39,"SHELL STEAK AL LIMONE : Charred, Cured & Confit Lemons"
+GRILLED PORK SHOULDER*,"Gigante Beans all' Amatriciana, Red Dandelion",Not Vegetarian,33,"GRILLED PORK SHOULDER* : Gigante Beans all' Amatriciana, Red Dandelion"
+OUR LASAGNA FOR TWO,"Italian Sausage Bolognese, Whipped Robiolina",Not Vegetarian,68,"OUR LASAGNA FOR TWO : Italian Sausage Bolognese, Whipped Robiolina"
+WHOLE ROASTED LOBSTER FOR TWO*,"Smoked Vodka Sauce, Spicy Polenta Tortelli, Lobster Polpette",Not Vegetarian,135,"WHOLE ROASTED LOBSTER FOR TWO* : Smoked Vodka Sauce, Spicy Polenta Tortelli, Lobster Polpette"
+JAPANESE SWEET POTATOES,"Sumac, Creamy Italian",Vegetarian,14,"JAPANESE SWEET POTATOES : Sumac, Creamy Italian"
+BROCCOLI DI CICCIO,"Black Garlic Aglio e Olio, Pecorino, Hazelnuts",Vegetarian,14,"BROCCOLI DI CICCIO : Black Garlic Aglio e Olio, Pecorino, Hazelnuts"
+CAULIFLOWER FRANCESCO,Frank's Red Hot Oreganata,Vegetarian,12,CAULIFLOWER FRANCESCO : Frank's Red Hot Oreganata
+CARAMELIZED PEAR SORBETTO,"Mascarpone Granita, Browned Butter, Amaretto",Vegetarian,12,"CARAMELIZED PEAR SORBETTO : Mascarpone Granita, Browned Butter, Amaretto"
+FIOR DI LATTE MOCHI,"Taggiasca Olive Oil, Sea Salt",Vegetarian,10,"FIOR DI LATTE MOCHI : Taggiasca Olive Oil, Sea Salt"
+BLACK COCOA TIRAMISU,"Marsala Caramel, Crispy Feuilletine",Vegetarian,14,"BLACK COCOA TIRAMISU : Marsala Caramel, Crispy Feuilletine"
+TZATZIKI,"yogurt, dill, cucumber",Vegetarian,,"TZATZIKI : yogurt, dill, cucumber"
+MELITZANOSALATA,"smoked eggplant, tahini, garlic",Vegetarian,,"MELITZANOSALATA : smoked eggplant, tahini, garlic"
+MUHAMARA,"roasted red pepper, pomegranate, walnuts",Vegetarian,,"MUHAMARA : roasted red pepper, pomegranate, walnuts"
+HUMMUS,"tahini, parsley, garlic, lemon",Vegetarian,,"HUMMUS : tahini, parsley, garlic, lemon"
+KOPANISTI,"whipped spicy feta, chili oil",Vegetarian,,"KOPANISTI : whipped spicy feta, chili oil"
+LOLA,"tomatoes, cucumber, olives, feta",Vegetarian,26,"LOLA : tomatoes, cucumber, olives, feta"
+AEGEAN,"kale, brussels sprouts",Vegetarian,19,"AEGEAN : kale, brussels sprouts"
+SANTORINI,"baby gem, roasted corn, lardon, spicy feta, green goddess",Not Vegetarian,22,"SANTORINI : baby gem, roasted corn, lardon, spicy feta, green goddess"
+GRILLED EGGPLANT,"tzatziki, pickled green tomatoes",Vegetarian,18,"GRILLED EGGPLANT : tzatziki, pickled green tomatoes"
+TOASTED HALLOUMI,"sesame, honey",Vegetarian,19,"TOASTED HALLOUMI : sesame, honey"
+SAGANAKI FONDUE,"feta, graviera, manouri, pepper jam",Vegetarian,22,"SAGANAKI FONDUE : feta, graviera, manouri, pepper jam"
+SPANAKOPITA SPRING ROLLS,"spinach, mint, parsley, leeks, feta",Vegetarian,20,"SPANAKOPITA SPRING ROLLS : spinach, mint, parsley, leeks, feta"
+GRILLED OCTOPUS,hummus,Not Vegetarian,28,GRILLED OCTOPUS : hummus
+CHICKEN GYRO BAO BUNS,"pickled cucumbers, tzatziki",Not Vegetarian,22,"CHICKEN GYRO BAO BUNS : pickled cucumbers, tzatziki"
+TUNA TARTARE,"yuzu, calabrian chili, shallots",Not Vegetarian,26,"TUNA TARTARE : yuzu, calabrian chili, shallots"
+LAMB KEFTEDES,"spiced lamb, pickled onion, tabouleh",Not Vegetarian,22,"LAMB KEFTEDES : spiced lamb, pickled onion, tabouleh"
+CHICKEN SOUVLAKI,"grilled vegetables, baldo rice",Not Vegetarian,36,"CHICKEN SOUVLAKI : grilled vegetables, baldo rice"
+ROASTED KING SALMON,"caper vinaigrette, cauliflower puree, spinach",Not Vegetarian,34,"ROASTED KING SALMON : caper vinaigrette, cauliflower puree, spinach"
+SHRIMP ORZO,"tomato, buttered leeks, ouzo",Not Vegetarian,38,"SHRIMP ORZO : tomato, buttered leeks, ouzo"
+LAVRAKI,whole mediterranean sea bass,Not Vegetarian,82,LAVRAKI : whole mediterranean sea bass
+GRILLED AUSTRALIAN LAMB CHOPS,"roasted potatoes, tzatziki",Not Vegetarian,48,"GRILLED AUSTRALIAN LAMB CHOPS : roasted potatoes, tzatziki"
+MARINATED NEW YORK STRIP,"creekstone farms new york strip, herbed fries",Not Vegetarian,46,"MARINATED NEW YORK STRIP : creekstone farms new york strip, herbed fries"
+THE LOLA TOMAHAWK,snake river farms american wagyu,Not Vegetarian,195,THE LOLA TOMAHAWK : snake river farms american wagyu
+WHIPPED RICOTTA,"BROWN BUTTER, HONEY, SAGE (GF)",Vegetarian,12,"WHIPPED RICOTTA : BROWN BUTTER, HONEY, SAGE (GF)"
+LABNE,"ZA'ATAR, OLIVE OIL (GF)",Vegetarian,11,"LABNE : ZA'ATAR, OLIVE OIL (GF)"
+BABAGANOUSH,"GINGER AIOLI, ZA’ATAR (GF, DF)",Vegetarian,12,"BABAGANOUSH : GINGER AIOLI, ZA’ATAR (GF, DF)"
+BEET HUMMUS,"BEETS, TAHINI, GOAT CHEESE, ORANGES (GF, DF, V)",Vegetarian,11,"BEET HUMMUS : BEETS, TAHINI, GOAT CHEESE, ORANGES (GF, DF, V)"
+MUHAMARRA,"ROASTED RED PEPPER, WALNUT, BREADCRUMBS (GF, DF, V)",Vegetarian,12,"MUHAMARRA : ROASTED RED PEPPER, WALNUT, BREADCRUMBS (GF, DF, V)"
+SWEET POTATO HUMMUS,"CREME FRAICHE, PAPRIKA OIL, ALMONDS (GF, DF, V)",Vegetarian,12,"SWEET POTATO HUMMUS : CREME FRAICHE, PAPRIKA OIL, ALMONDS (GF, DF, V)"
+CRISPY CAULIFLOWER,"PARSLEY, SILAN (GF, DF, V)",Vegetarian,15,"CRISPY CAULIFLOWER : PARSLEY, SILAN (GF, DF, V)"
+LAMB SHAWARMA,"AMBA, HARISSA (GF, DF)",Not Vegetarian,18,"LAMB SHAWARMA : AMBA, HARISSA (GF, DF)"
+SAUTEED CHICKEN LIVER,"CARAMELIZED ONION, BALSAMIC",Not Vegetarian,16,"SAUTEED CHICKEN LIVER : CARAMELIZED ONION, BALSAMIC"
+MERGUEZ,"GROUND LAMB, HARISSA, PICKLES (GF, DF)",Not Vegetarian,16,"MERGUEZ : GROUND LAMB, HARISSA, PICKLES (GF, DF)"
+CHICKEN SHAWARMA,"SHAWARMA SPICES, AMBA, HARISSA (GF, DF)",Not Vegetarian,16,"CHICKEN SHAWARMA : SHAWARMA SPICES, AMBA, HARISSA (GF, DF)"
+SHORT RIB,"ALMONDS, HARISSA, CURRANTS (GF, DF)",Not Vegetarian,17,"SHORT RIB : ALMONDS, HARISSA, CURRANTS (GF, DF)"
+FALL SALAD HUMMUS,"SQUASH, SHIITAKE, ROSEMARY (GF, DF, V)",Vegetarian,15,"FALL SALAD HUMMUS : SQUASH, SHIITAKE, ROSEMARY (GF, DF, V)"
+KOFTA KEBAB,"BAHARAT, HARISSA, PINE NUTS (GF, DF)",Not Vegetarian,16,"KOFTA KEBAB : BAHARAT, HARISSA, PINE NUTS (GF, DF)"
+CHICKEN THIGH,"TAHINI, HARISSA (GF, DF)",Not Vegetarian,13,"CHICKEN THIGH : TAHINI, HARISSA (GF, DF)"
+HALLOUMI,"GREEN TAHINI, SUMAC ONIONS, LEMON (GF)",Vegetarian,13,"HALLOUMI : GREEN TAHINI, SUMAC ONIONS, LEMON (GF)"
+SALMON BELLY,"LABNE, CHARMOULA (GF, DF)",Not Vegetarian,13,"SALMON BELLY : LABNE, CHARMOULA (GF, DF)"
+MARKET SALAD,"FROM THE FARMS, ROTATING DAILY (GF, DF, V)",Vegetarian,16,"MARKET SALAD : FROM THE FARMS, ROTATING DAILY (GF, DF, V)"
+KALE SALAD,"BEETS, PUMPKIN SEEDS, APPLE, FETA CHEESE, MISO-TAHINI DRESSING (GF, DF, V)",Vegetarian,16,"KALE SALAD : BEETS, PUMPKIN SEEDS, APPLE, FETA CHEESE, MISO-TAHINI DRESSING (GF, DF, V)"
+CHICORY SALAD,"OLIVES, BREADCRUMBS, HONEY HABENERO VINAIGRETTE (GF, DF, V)",Vegetarian,16,"CHICORY SALAD : OLIVES, BREADCRUMBS, HONEY HABENERO VINAIGRETTE (GF, DF, V)"
+OCTOPUS,"EGGPLANT PUREE, CHARRED PEPPERS, CASTELVELTRANO OLIVES (GF, DF)",Not Vegetarian,19,"OCTOPUS : EGGPLANT PUREE, CHARRED PEPPERS, CASTELVELTRANO OLIVES (GF, DF)"
+STRACCIATELLA,"EGGPLANT, DATES, BREADCRUMBS (GF)",Vegetarian,18,"STRACCIATELLA : EGGPLANT, DATES, BREADCRUMBS (GF)"
+FALAFEL,"FETA, TAGGIASCA OLIVES, GREEN TAHINI (GF)",Vegetarian,16,"FALAFEL : FETA, TAGGIASCA OLIVES, GREEN TAHINI (GF)"
+WHOLE BRANZINO,"MARKET SALAD, CHARMOULA, LEMON (GF, DF)",Not Vegetarian,MP,"WHOLE BRANZINO : MARKET SALAD, CHARMOULA, LEMON (GF, DF)"
+ZA'ATAR CRUSTED SALMON,"LABNE, CHARRED SHALLOTS, JAPANESE EGGPLANT, AMBA (GF, DF)",Not Vegetarian,30,"ZA'ATAR CRUSTED SALMON : LABNE, CHARRED SHALLOTS, JAPANESE EGGPLANT, AMBA (GF, DF)"
+HALF BRICK CHICKEN,"TAGGIASCA OLIVES, PRESERVED LEMON, HARISSA (GF, DF)",Not Vegetarian,29,"HALF BRICK CHICKEN : TAGGIASCA OLIVES, PRESERVED LEMON, HARISSA (GF, DF)"
+HANGER STEAK,"WARM CHICKPEA SALAD, GREEN TAHINI (GF)",Not Vegetarian,32,"HANGER STEAK : WARM CHICKPEA SALAD, GREEN TAHINI (GF)"
+SHAKSHUKA,"POACHED EGG, GOAT CHEESE, PARSLEY (GF, DF, V)",Vegetarian,23,"SHAKSHUKA : POACHED EGG, GOAT CHEESE, PARSLEY (GF, DF, V)"
+Pork Soup Dumplings,bite sized explosions of porky goodness,Not Vegetarian,18,Pork Soup Dumplings : bite sized explosions of porky goodness
+Chicken Soup Dumplings,good for the soul,Not Vegetarian,18,Chicken Soup Dumplings : good for the soul
+Crab and Pork Soup Dumpling,fresh blue crab + niman ranch pork,Not Vegetarian,21,Crab and Pork Soup Dumpling : fresh blue crab + niman ranch pork
+Beef Pan Fried Dumplings,house ground creekstone farms beef + curry,Not Vegetarian,18,Beef Pan Fried Dumplings : house ground creekstone farms beef + curry
+Pork + Chive Dumplings,house-ground niman ranch pork + chinese chives,Not Vegetarian,18,Pork + Chive Dumplings : house-ground niman ranch pork + chinese chives
+Vegetable Dumplings,"bok choy, free range egg + glass noodle",Vegetarian,18,"Vegetable Dumplings : bok choy, free range egg + glass noodle"
+Mushroom Dumplings,shiitake + truffle,Vegetarian,18,Mushroom Dumplings : shiitake + truffle
+Niman Ranch Cumin Pork Ribs,"“tender, fall-off-the-bone” - jocelyn on yelp",Not Vegetarian,21,"Niman Ranch Cumin Pork Ribs : “tender, fall-off-the-bone” - jocelyn on yelp"
+House Special Shrimp,tiger shrimp kung pao'd,Not Vegetarian,18,House Special Shrimp : tiger shrimp kung pao'd
+Spicy Wontons,niman ranch pork + house crack sauce,Not Vegetarian,21,Spicy Wontons : niman ranch pork + house crack sauce
+Crispy Pork Belly,"tea marinated niman ranch pork, jasmine tea crisp + sweet marinade jus",Not Vegetarian,19,"Crispy Pork Belly : tea marinated niman ranch pork, jasmine tea crisp + sweet marinade jus"
+Spicy Marinated Cucumbers,"sesame, garlic + chilli",Vegetarian,10,"Spicy Marinated Cucumbers : sesame, garlic + chilli"
+Peking Duck,traditional accompaniments. PLEASE ALLOW AT LEAST ONE HOUR FOR PREPARATION,Not Vegetarian,115,Peking Duck : traditional accompaniments. PLEASE ALLOW AT LEAST ONE HOUR FOR PREPARATION
+Wind Sand Chicken,"3-day marinated whole Lancaster chicken, crispy garlic + bread crumbs. PLEASE ALLOW AT LEAST 45 MINUTES FOR PREPARATION",Not Vegetarian,49,"Wind Sand Chicken : 3-day marinated whole Lancaster chicken, crispy garlic + bread crumbs. PLEASE ALLOW AT LEAST 45 MINUTES FOR PREPARATION"
+Hong Kong Style Lobster,"morel mushrooms, wood ear + baby corn",Not Vegetarian,88,"Hong Kong Style Lobster : morel mushrooms, wood ear + baby corn"
+Typhoon Shelter Shellfish,"diver scallops, shrimp, dried chilli, garlic + spring onions",Not Vegetarian,42,"Typhoon Shelter Shellfish : diver scallops, shrimp, dried chilli, garlic + spring onions"
+Creekstone Farms Ribeye,sichuan spicy doubanjiang OR cantonese black pepper,Not Vegetarian,55,Creekstone Farms Ribeye : sichuan spicy doubanjiang OR cantonese black pepper
+Three Cup Chicken,"bell & evans organic dark meat, basil + shallot",Not Vegetarian,36,"Three Cup Chicken : bell & evans organic dark meat, basil + shallot"
+Snow Crab in a Chinese Restaurant,"hand-shelled crab, fermented doubanjiang + glass noodles",Not Vegetarian,48,"Snow Crab in a Chinese Restaurant : hand-shelled crab, fermented doubanjiang + glass noodles"
+Crispy Red Snapper,"chinese okra, ginger + soy sauce",Not Vegetarian,39,"Crispy Red Snapper : chinese okra, ginger + soy sauce"
+Steak Fried Rice,american wagyu bavette,Not Vegetarian,27,Steak Fried Rice : american wagyu bavette
+Seafood Fried Rice,"octopus, bay scallop, shrimp + house XO",Not Vegetarian,23,"Seafood Fried Rice : octopus, bay scallop, shrimp + house XO"
+Zha Jiang Noodle,"peking duck ragu, tomato, english cucumber",Not Vegetarian,22,"Zha Jiang Noodle : peking duck ragu, tomato, english cucumber"
+Dan Dan Noodle,niman ranch pork + crushed peanuts. *dinner only*,Not Vegetarian,21,Dan Dan Noodle : niman ranch pork + crushed peanuts. *dinner only*
+Taiwanese Beef Noodle Soup,overnight bone broth + pasture raised beef shank,Not Vegetarian,24,Taiwanese Beef Noodle Soup : overnight bone broth + pasture raised beef shank
+Sichuan String Beans,niman ranch pork + dried shrimp,Not Vegetarian,15,Sichuan String Beans : niman ranch pork + dried shrimp
+Crispy Brussels Sprouts,"chinese sausage, thai chilli + lemon",Not Vegetarian,15,"Crispy Brussels Sprouts : chinese sausage, thai chilli + lemon"
+Eggplant,long pepper + house garlic sauce,Vegetarian,14,Eggplant : long pepper + house garlic sauce
+Pea Shoots,fresh garlic,Vegetarian,19,Pea Shoots : fresh garlic
+Ma Po Tofu,angus beef + sichuan peppercorn,Not Vegetarian,16,Ma Po Tofu : angus beef + sichuan peppercorn
+Sticky Toffee Donut,fresh chantilly cream,Vegetarian,16,Sticky Toffee Donut : fresh chantilly cream
+Panna Cotta,mango + grapefruit,Vegetarian,13,Panna Cotta : mango + grapefruit
+Chocolate Torte,chocolate crunch + black tea cream,Vegetarian,15,Chocolate Torte : chocolate crunch + black tea cream
+Bacon Egg + Cheese Dumplings,"niman ranch bacon, ny cheddar + free range eggs",Not Vegetarian,18,"Bacon Egg + Cheese Dumplings : niman ranch bacon, ny cheddar + free range eggs"
+Shrimp Shao Mai,tiger shrimp + ginger,Not Vegetarian,15,Shrimp Shao Mai : tiger shrimp + ginger
+Sweet Pork Buns,"char siu pork, orange + mantou",Not Vegetarian,15,"Sweet Pork Buns : char siu pork, orange + mantou"
+Sweet + Sour Pork,"niman ranch pork, local strawberries + bell pepper",Not Vegetarian,16,"Sweet + Sour Pork : niman ranch pork, local strawberries + bell pepper"
+Shrimp Cakes,"tiger shrimp, atlantic cod + almonds",Not Vegetarian,13,"Shrimp Cakes : tiger shrimp, atlantic cod + almonds"
+Vegetable Spring Rolls,"napa, shiitake + glass noodle",Vegetarian,16,"Vegetable Spring Rolls : napa, shiitake + glass noodle"
+Braised Pork Sticky Rice,"niman ranch pork belly, shiitake + banana leaf rice",Not Vegetarian,16,"Braised Pork Sticky Rice : niman ranch pork belly, shiitake + banana leaf rice"
+Shanghai Pork Chop,pickled scallions,Not Vegetarian,12,Shanghai Pork Chop : pickled scallions
+Turnip Cake,"dried shrimp, lap cheong + pickled peppers",Not Vegetarian,18,"Turnip Cake : dried shrimp, lap cheong + pickled peppers"
+Breakfast Dan Dan Noodles,niman ranch bacon + soft poached free range egg,Not Vegetarian,23,Breakfast Dan Dan Noodles : niman ranch bacon + soft poached free range egg
+Add 2 Eggs,scrambled / soft poached / sunny side,Vegetarian,8,Add 2 Eggs : scrambled / soft poached / sunny side

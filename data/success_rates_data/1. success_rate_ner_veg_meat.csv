@@ -1,0 +1,5 @@
+models,success_rate
+bart_classification,55.14950166112957
+mDeBERTa-v3-base-mnli-xnli,68.43853820598007
+DeBERTa-v3-base-mnli-fever-anli	,65.11627906976744
+deberta-v3-base-zeroshot-v1.1-all-33,69.76744186046511

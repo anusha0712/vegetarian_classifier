@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>War and Peas</title>
+    <style>
+        body {
+            margin: 0;
+            background-color: rgb(255, 233, 187);
+        }
+        /* Make the page 700px wide, centered */
+        .container {
+            width: 700px;
+            margin: 4em auto;
+        }
+        /* Use a nice font */
+        body {
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 3em;
+            margin: 2em 1;
+        }
+
+        h3 {
+
+            text-align: center;
+            
+
+        }
+
+        p {
+
+            text-align: center;
+        }
+
+        .graphic {
+            margin: 2em auto;
+            display: flex;
+            justify-content: center; /* Center the iframe horizontally */
+            align-items: center; /* Center the iframe vertically */
+            flex-direction: column; /* Ensure elements stack vertically if needed */
+            text-align: center;
+            padding: 1em;
+           
+            
+        }
+
+        iframe {
+            display: inline-block; /* Ensures iframe behaves like a block element for centering */
+            
+        }
+
+
+        #footer {
+            text-align: center;
+            padding: 4em;
+            background-color: #f0f1ff;
+            border-top: solid white 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🍖 War and Peas 🥦</h1>
+        <h3>A Food Classifer for the Vegetarian Diet</h3>
+        <p>Check how many vegetarian items are available by inputting a list of menu times and their descriptions in the box below </p>
+        <div class="graphic">
+            <iframe
+            src="https://anusha0712-vegetarian-classifier.hf.space"
+            frameborder="0"
+            width="800"
+            height="550"
+            ></iframe>
+
+
+        </div>
+    </div>
+    <div id="footer">
+        <p>Final project for the Data Journalism Program at Columbia Journalism School by Anusha Subramanian on <a href="https://huggingface.co">huggingface.co</a>.</p>
+    </div>
+</html>
