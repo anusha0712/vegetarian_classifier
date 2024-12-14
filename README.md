@@ -15,4 +15,4 @@ I tested 5 most popular zero-shot text classifying models on HuggingFace. The on
 
 
 ## Questions
-For questions please contact [Anusha Subramanian][mailto:as7500@columbia.edu]
+For questions please contact [Anusha Subramanian](mailto:as7500@columbia.edu)
